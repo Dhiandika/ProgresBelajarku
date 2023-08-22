@@ -1,18 +1,18 @@
-# ProgresBelajarku
+# PengalamanBelajar
 
-22 Agustus 2023
+Repository Ini Berisi Pengalaman Belajar di Dicoding
+
+
+**22 Agustus 2023**  
+
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
-* Belajar tentang apa itu Java dan alasan menggunakannya.
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
 
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
-
-“Hari ini aku belajar bahasa pemrograman Java di Dicoding sebesar 21%. 
-
-Jika kamu tertarik, kamu bisa mengaksesnya di https://www.dicoding.com/academies/60/.”
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
 
-23 Agustus 2023
+**24 Agustus 2023**  
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
@@ -21,4 +21,3 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
   * Belajar control flow dalam Java, seperti perulangan dan percabangan.
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
-
