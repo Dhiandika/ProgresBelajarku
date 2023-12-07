@@ -1,3 +1,74 @@
+# API Reference
+
+## All Items
+
+#### Get all items
+
+```http
+  GET {{server}}/
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | **Required**. Your API key |
+
+#### Delete item
+
+```http
+  DEL {{server}}/
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Required**. Id of item to fetch |
+
+
+###
+## Users
+#### Get All Users
+```http
+  GET {{server}}/users
+```
+#### Get All Users by Id
+```http
+  GET {{server}}/users/{{idUser}}
+```
+#### Add Users
+```http
+  POST {{server}}/users
+```
+#### Update Users by Id
+```http
+  PUT {{server}}/users/{{idUser}}
+```
+#### Delete Users by Id
+```http
+  DEL {{server}}/users/{{idUser}}
+```
+###
+## Laundry
+#### Get All Laundry
+```http
+  GET {{server}}/laundry
+```
+#### Get All Laundry by Id
+```http
+  GET {{server}}/laundry/{{idLaundry}}
+```
+#### Add Laundry
+```http
+  POST {{server}}/laundry
+```
+#### Update Laundry by Id
+```http
+  PUT {{server}}/laundry/{{idLaundry}}
+```
+#### Delete Laundry by Id
+```http
+  DEL {{server}}/laundry/{{idLaundry}}
+```
+###
+
 ## Deploying to Cloud Run
 - ### Preconditions
   Before deploying your app to Google Cloud Run, ensure that you meet the following prerequisites:
