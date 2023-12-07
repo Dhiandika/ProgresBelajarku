@@ -26,7 +26,7 @@
 ###
 ## Users
 #### Get All Users
-```http
+```
   GET {{server}}/users
 ```
 #### Get All Users by Id
@@ -34,15 +34,15 @@
   GET {{server}}/users/{{idUser}}
 ```
 #### Add Users
-```http
+```
   POST {{server}}/users
 ```
 #### Update Users by Id
-```http
+```
   PUT {{server}}/users/{{idUser}}
 ```
 #### Delete Users by Id
-```http
+```
   DEL {{server}}/users/{{idUser}}
 ```
 ###
@@ -52,19 +52,19 @@
   GET {{server}}/laundry
 ```
 #### Get All Laundry by Id
-```http
+```
   GET {{server}}/laundry/{{idLaundry}}
 ```
 #### Add Laundry
-```http
+```
   POST {{server}}/laundry
 ```
 #### Update Laundry by Id
-```http
+```
   PUT {{server}}/laundry/{{idLaundry}}
 ```
 #### Delete Laundry by Id
-```http
+```
   DEL {{server}}/laundry/{{idLaundry}}
 ```
 ###
