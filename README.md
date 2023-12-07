@@ -30,7 +30,7 @@
   GET {{server}}/users
 ```
 #### Get All Users by Id
-```http
+```
   GET {{server}}/users/{{idUser}}
 ```
 #### Add Users
