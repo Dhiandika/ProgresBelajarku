@@ -4,7 +4,7 @@
 
 #### Get all items
 
-```http
+```
   GET {{server}}/
 ```
 
@@ -14,7 +14,7 @@
 
 #### Delete item
 
-```http
+```
   DEL {{server}}/
 ```
 
@@ -48,7 +48,7 @@
 ###
 ## Laundry
 #### Get All Laundry
-```http
+```
   GET {{server}}/laundry
 ```
 #### Get All Laundry by Id
