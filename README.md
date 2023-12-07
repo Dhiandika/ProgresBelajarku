@@ -46,26 +46,26 @@
   DEL {{server}}/users/{{idUser}}
 ```
 ###
-## Laundry
-#### Get All Laundry
+## Articel
+#### Get All Articel
 ```
-  GET {{server}}/laundry
+  GET {{server}}/Articel
 ```
-#### Get All Laundry by Id
+#### Get All Articel by Id
 ```
-  GET {{server}}/laundry/{{idLaundry}}
+  GET {{server}}/Articel/{{idArticel}}
 ```
-#### Add Laundry
+#### Add Articel
 ```
-  POST {{server}}/laundry
+  POST {{server}}/Articel
 ```
-#### Update Laundry by Id
+#### Update Articel by Id
 ```
-  PUT {{server}}/laundry/{{idLaundry}}
+  PUT {{server}}/Articel/{{idArticel}}
 ```
-#### Delete Laundry by Id
+#### Delete Articel by Id
 ```
-  DEL {{server}}/laundry/{{idLaundry}}
+  DEL {{server}}/Articel/{{idArticel}}
 ```
 ###
 
